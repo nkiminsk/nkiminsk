@@ -4,6 +4,7 @@ I'm a student at Iowa State University and have experience in the following area
   - Python/Django Frameworks
   - Natural Language Processing
   - Database Design and Implementation(SQLite, Docker, PostgreSQL)
+
 I'm aspiring to learn more about these topics: 
   - Advanced Python Applications
   - Advanced AI and Machine Learning
