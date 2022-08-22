@@ -9,4 +9,5 @@ I'm aspiring to learn more about these topics:
   - Advanced Python Applications
   - Advanced AI and Machine Learning
   - Large Scale Web Development
+
 You can reach me at nkiminsk@iastate.edu
